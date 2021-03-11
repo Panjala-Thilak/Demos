@@ -1,4 +1,4 @@
-//Factory Method Design Pattern
+//Factory Method Design Pattern.
 //subclasses decide which classes to instantiate
 package designpatterns.factorymethod;
 

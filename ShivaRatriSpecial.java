@@ -1,5 +1,5 @@
 package com.designpriciples;
-
+//All OOPS Concepts
 import java.util.Scanner;
 
 class MovieTickets
